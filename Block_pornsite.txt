@@ -13221,3 +13221,5 @@
 0.0.0.0   zzhdporn.com
 0.0.0.0   zzitube.com
 0.0.0.0   www.pornhub.com 
+0.0.0.0   pornhub.com
+0.0.0.0  https://www.pornhub.com
