@@ -58,3 +58,4 @@
 0.0.0.0 nosdevoirs.fr
 0.0.0.0 https://www.minecraft.net/en-us
 0.0.0.0 www.minecraft.net
+0.0.0.0 minecraft.net/en-us
