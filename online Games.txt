@@ -56,3 +56,5 @@
 0.0.0.0 omegle.com
 0.0.0.0 shadow.tech
 0.0.0.0 nosdevoirs.fr
+0.0.0.0 https://www.minecraft.net/en-us
+0.0.0.0 www.minecraft.net
