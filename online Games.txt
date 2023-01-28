@@ -59,3 +59,7 @@
 0.0.0.0 https://www.minecraft.net/en-us
 0.0.0.0 www.minecraft.net
 0.0.0.0 minecraft.net/en-us
+0.0.0.0 https://m.mobilelegends.com/en
+0.0.0.0 m.mobilelegends.com/en
+0.0.0.0 www.m.mobilelegends.com/en
+
