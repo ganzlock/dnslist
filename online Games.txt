@@ -62,4 +62,7 @@
 0.0.0.0 https://m.mobilelegends.com/en
 0.0.0.0 m.mobilelegends.com/en
 0.0.0.0 www.m.mobilelegends.com/en
+0.0.0.0 https://www.callofduty.com/mobile
+0.0.0.0 www.callofduty.com/mobile
+0.0.0.0 callofduty.com/mobile
 
